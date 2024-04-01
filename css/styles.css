@@ -5,9 +5,10 @@
 .hero {
     background-image: url("../media/hero.jpg");
     background-size: cover;
-    background-position: 1rem;
+    background-repeat: no-repeat;
+    background-position: 70% 50%;
 }
 
 .overlay {
-    background: linear-gradient(0.25turn, hsla(0, 0%, 70%, 0.2) 30%, #00199F);
+    background: linear-gradient(0.25turn, hsla(0, 0%, 70%, 0.3) 30%, #00199F);
 }
