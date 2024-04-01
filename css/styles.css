@@ -18,3 +18,12 @@
         width: 13rem;
     }
 }
+
+.btn {
+    border-radius: 4rem;
+    -webkit-border-radius: 4rem;
+    -moz-border-radius: 4rem;
+    -ms-border-radius: 4rem;
+    -o-border-radius: 4rem;
+    padding: 0.8rem 1.4rem;
+}
