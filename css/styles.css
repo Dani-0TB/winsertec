@@ -27,3 +27,7 @@
     -o-border-radius: 4rem;
     padding: 0.8rem 1.4rem;
 }
+
+.btn-success {
+    background-color: #008A00;
+}
