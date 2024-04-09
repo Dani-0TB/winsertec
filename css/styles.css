@@ -31,3 +31,19 @@
 .btn-success {
     background-color: #008A00;
 }
+
+.separator-img {
+    background-image: url("../media/engineer.jpg");
+    background-size: cover;
+    background-position-y: 50%;
+    height: 400px;
+}
+
+.separator-mask {
+    background-color: #44940f41;
+    height: 100%;
+}
+
+.bg-blue {
+    background-color: #00199F;
+}
